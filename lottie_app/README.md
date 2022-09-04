@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+From Lottie Files website we choose any file and use its link in the project.
+
+In this application following packaged is used.
+*lottie: ^1.2.2
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
